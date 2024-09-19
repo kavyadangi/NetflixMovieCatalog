@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  EC2_PUBLIC_ADDRESS: ai-tsadok-3.devops-days-upes.com
+  EC2_PUBLIC_ADDRESS: kavya-dangi.devops-days-upes.com
   EC2_USER_NAME: ubuntu
   SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }} 
   TARGET_DIR: /home/ubuntu/NetflixMovieCatalog_5
