@@ -5,6 +5,7 @@ on:
     branches:
       - main
 
+
 env:
   EC2_PUBLIC_ADDRESS: kavya-dangi.devops-days-upes.com
   EC2_USER_NAME: ubuntu
